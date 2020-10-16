@@ -20,3 +20,6 @@ We assume that, by subscribing, customers have provided data on their financial 
 # Behavioral data (usage log)
 Information available are not time-bound. This includes a log of activity. It combines usage data (number of deposits made, number of purchases made, credit card offer accepted,...) and customer specific information (income and revenues, referrals, mobile platform...).
 
+# Steps in the Notebook
+
+# Results
