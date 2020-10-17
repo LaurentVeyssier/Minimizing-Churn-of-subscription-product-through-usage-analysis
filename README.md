@@ -11,7 +11,7 @@ To retain customers, companies must identify behavorial patterns giving early wa
 
 This business case proposes to build a model predicting which customers are likely to churn so that the company can focus on retaining them. For example, the company can develop new features that customers would be interested in or provide information on value-added services the user did not realize or has forgotten about.
 
-This situation can apply to a wide variety of business cases and subscription services. It assumes the company has data available from the user on the use of the service: What functionalities he uses, how the customer interacts with the various services, etc...
+This situation can apply to a wide variety of business cases and subscription services. It assumes the company has data available on how the customer is using the service: What functionalities he uses, how the customer interacts with the various services, etc...
 
 # Business case
 In this project, the business case involves a digital app offering financial / banking services such as loans, credit cards, purchases and deposits to name a few.
