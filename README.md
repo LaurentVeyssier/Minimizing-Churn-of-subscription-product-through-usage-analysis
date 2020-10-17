@@ -1,7 +1,7 @@
 # Minimizing-Churn-of-subscription-product-through-usage-analysis
 Build a model predicting which customers are likely to cancel subscription by analyzing the use of the application and habbits.
 
-This project illustrates how machine learning can optimize digital app's revenues. It can be looked at in parallel of [Directing customers to subscription and identify most important drivers](https://github.com/LaurentVeyssier/App-Directing-customers-to-subscription), which I covered separately.
+This project illustrates how machine learning can optimize digital app's revenues. It can be looked at in parallel with [Directing customers to subscription and identify most important drivers](https://github.com/LaurentVeyssier/App-Directing-customers-to-subscription), which I covered separately.
 
 # Problem statement
 
