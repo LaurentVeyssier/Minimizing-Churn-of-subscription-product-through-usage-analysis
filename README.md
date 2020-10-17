@@ -5,7 +5,7 @@ This project illustrates how machine learning can optimize digital app's revenue
 
 # Problem statement
 
-The main source of revenues for many digital applications comes from subscription. Subscriptions provide a continuous flow of revenues making it possible to finance growth and new developments. Subscription-based companies want to reduce customer churn as much as possible and retain customers life-time value. Customer acquisition is far more expensive than keeping existing customers, being able to keep the customer is extremely valuable.
+The main source of revenues for many digital applications comes from subscription. Subscriptions provide a continuous flow of revenues making it possible to finance growth and new developments. Subscription-based companies want to reduce customer churn as much as possible and retain customers life-time value. Customer acquisition is far more expensive than keeping existing customers. So, to be able to keep the customer is extremely valuable.
 
 To retain customers, companies must identify behavorial patterns giving early warnings of customer disengagement (such as customers starting to lose interest in the service). Being able to identify early signs and catalyst to disengagement represents a tremendous opportunity to re-engage these customers with the product or service.
 
